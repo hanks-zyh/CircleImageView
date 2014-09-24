@@ -5,7 +5,7 @@ simple to implemente a circle ImageView with border
 
 ![](https://github.com/18236887539/CircleImageView/blob/master/res/drawable-hdpi/p.jpg)<br>
 ![](https://github.com/18236887539/CircleImageView/blob/master/pp.jpg)
-``` 
+```java
 package com.zyh.cricleimageview;
 
 import android.content.Context;
@@ -90,7 +90,7 @@ public class CircleImageView extends ImageView {
 
 2.使用
 ------
-``` 
+``` java
 public class MainActivity extends Activity {
 
 	private CircleImageView iv;
